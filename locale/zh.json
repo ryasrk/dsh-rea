@@ -1,0 +1,8 @@
+{
+  "meta": {
+    "title": "逆向工程工具",
+    "description": "使用 REA v6.8.0 逆向工程一切：原生二进制、JS/Electron 应用、.NET 程序集、安卓 APK、网络抓包以及 Agent 强化学习环境。"
+  },
+  "panel": "逆向工程",
+  "tooltip": "逆向工程工具 (REA 6.8.0)"
+}

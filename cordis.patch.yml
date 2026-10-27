@@ -1,0 +1,4 @@
+# dsh bundle patch for REA Reverse Engineering Tools
+- insert:
+    - id: dsh-plugin-rea
+      name: 'dsh-plugin-rea'

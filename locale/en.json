@@ -1,0 +1,8 @@
+{
+  "meta": {
+    "title": "Reverse Engineering Tools",
+    "description": "Reverse engineer anything with REA v6.8.0: native binaries, JavaScript/Electron apps, .NET, Android APKs, network captures, and agent RL environments."
+  },
+  "panel": "Reverse Engineering",
+  "tooltip": "Reverse Engineering Tools (REA 6.8.0)"
+}
