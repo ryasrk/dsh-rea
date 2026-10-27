@@ -34,6 +34,16 @@ git clone https://github.com/ryasrk/dsh-rea.git
 
 Then point `plugin_manager` at the cloned `dsh-plugin-rea` directory.
 
+## Plugin market index
+
+This repository also ships [`index.json`](index.json), a format-1 [plugin market index](https://github.com/deepseek-ai/deepseek-harness) validated with `dsh-plugin-market-index`. Add the raw URL as an index source in the DSH **Discover** page:
+
+```text
+https://raw.githubusercontent.com/ryasrk/dsh-rea/main/index.json
+```
+
+The index pins version `1.0.0` to commit `7e4f56f`, so installs are reproducible.
+
 ## References
 
 - [REA GitHub Release rea-agents-6.8.0](https://github.com/morluto/rea/releases/tag/rea-agents-6.8.0)

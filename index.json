@@ -1,0 +1,92 @@
+{
+  "format": 1,
+  "title": {
+    "en": "ryasrk DSH Plugins",
+    "zh": "ryasrk 的 DSH 插件"
+  },
+  "description": {
+    "en": "Personal plugin market for DeepSeek Harness bundles by ryasrk.",
+    "zh": "ryasrk 的 DeepSeek Harness 个人插件市场。"
+  },
+  "metadata": {
+    "categories": {
+      "security": {
+        "title": {
+          "en": "Security",
+          "zh": "安全"
+        }
+      },
+      "reverse-engineering": {
+        "title": {
+          "en": "Reverse Engineering",
+          "zh": "逆向工程"
+        }
+      }
+    },
+    "labels": {
+      "personal": {
+        "title": {
+          "en": "Personal",
+          "zh": "个人"
+        }
+      }
+    }
+  },
+  "plugins": [
+    {
+      "name": "dsh-plugin-rea",
+      "title": {
+        "en": "Reverse Engineering Tools",
+        "zh": "逆向工程工具"
+      },
+      "description": {
+        "en": "Reverse engineer anything with REA v6.8.0: native binaries, JavaScript/Electron apps, .NET, Android APKs, network captures, and agent RL environments.",
+        "zh": "使用 REA v6.8.0 逆向工程一切：原生二进制、JS/Electron 应用、.NET 程序集、安卓 APK、网络抓包以及 Agent 强化学习环境。"
+      },
+      "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCIgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSJub25lIj4KICA8cmVjdCB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHJ4PSIxNCIgZmlsbD0iIzBmMTcyYSIgLz4KICA8cmVjdCB4PSIyIiB5PSIyIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIHJ4PSIxMiIgc3Ryb2tlPSIjMjU2M2ViIiBzdHJva2Utd2lkdGg9IjEuNSIgc3Ryb2tlLW9wYWNpdHk9IjAuNCIgLz4KICA8IS0tIENpcmN1aXQgZ3JpZCBsaW5lcyAtLT4KICA8cGF0aCBkPSJNMTIgMjBoOHY4bTI0LThoLTh2OG0tMTYgMTZ2OGg4bTE2LTh2OGgtOCIgc3Ryb2tlPSIjM2I4MmY2IiBzdHJva2Utd2lkdGg9IjEuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2Utb3BhY2l0eT0iMC4zIiAvPgogIDwhLS0gTWFnbmlmeWluZyBnbGFzcyAvIGxlbnMgd2l0aCBjb2RlIGluc2lkZSAtLT4KICA8Y2lyY2xlIGN4PSIyOCIgY3k9IjI4IiByPSIxNCIgc3Ryb2tlPSIjNjBhNWZhIiBzdHJva2Utd2lkdGg9IjIuNSIgZmlsbD0iIzFlMjkzYiIgZmlsbC1vcGFjaXR5PSIwLjciIC8+CiAgPHBhdGggZD0iTTM4IDM4bDE0IDE0IiBzdHJva2U9IiM2MGE1ZmEiIHN0cm9rZS13aWR0aD0iMy41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIC8+CiAgPCEtLSBDb2RlIGJyYWNrZXRzIDwvPiBpbnNpZGUgbGVucyAtLT4KICA8cGF0aCBkPSJNMjMgMjRsLTQgNCA0IDQiIHN0cm9rZT0iIzM4YmRmOCIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIC8+CiAgPHBhdGggZD0iTTMzIDI0bDQgNC00IDQiIHN0cm9rZT0iIzM4YmRmOCIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIC8+CiAgPHBhdGggZD0iTTI5IDIzbC0yIDEwIiBzdHJva2U9IiNhNzhiZmEiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiAvPgogIDwhLS0gQWNjZW50IGRvdHMgLS0+CiAgPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMiIgZmlsbD0iIzM4YmRmOCIgLz4KICA8Y2lyY2xlIGN4PSI1MiIgY3k9IjEyIiByPSIyIiBmaWxsPSIjODE4Y2Y4IiAvPgogIDxjaXJjbGUgY3g9IjEyIiBjeT0iNTIiIHI9IjIiIGZpbGw9IiM4MThjZjgiIC8+CiAgPGNpcmNsZSBjeD0iNTIiIGN5PSI1MiIgcj0iMiIgZmlsbD0iIzM4YmRmOCIgLz4KPC9zdmc+Cg==",
+      "author": "ryasrk",
+      "homepage": "https://github.com/ryasrk/dsh-rea",
+      "repository": {
+        "url": "https://github.com/ryasrk/dsh-rea"
+      },
+      "metadata": {
+        "category": "reverse-engineering",
+        "labels": [
+          "personal"
+        ],
+        "keywords": [
+          "reverse-engineering",
+          "rea",
+          "binary-analysis",
+          "ghidra",
+          "ida",
+          "radare2",
+          "frida",
+          "malware-analysis",
+          "decompilation",
+          "nsis",
+          "pyinstaller",
+          "electron",
+          "apk"
+        ]
+      },
+      "dist-tags": {
+        "latest": "1.0.0"
+      },
+      "versions": [
+        {
+          "version": "1.0.0",
+          "publishTimestamp": 1793109999,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/ryasrk/dsh-rea",
+            "commit": "7e4f56f40809d325286409ae87681462dd7bfa2a"
+          },
+          "engines": {
+            "dsh": "*"
+          }
+        }
+      ]
+    }
+  ]
+}
