@@ -31,5 +31,30 @@
         "@deepseek-ai/dsh-client-ui-layout"
       ]
     }
+  },
+  "engines": {
+    "dsh": "*"
+  },
+  "keywords": [
+    "reverse-engineering",
+    "rea",
+    "binary-analysis",
+    "ghidra",
+    "ida",
+    "radare2",
+    "frida",
+    "ghidra-scripts",
+    "malware-analysis",
+    "decompilation",
+    "nsis",
+    "pyinstaller",
+    "electron",
+    "apk"
+  ],
+  "author": "ryasrk",
+  "homepage": "https://github.com/ryasrk/dsh-rea",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryasrk/dsh-rea"
   }
 }
